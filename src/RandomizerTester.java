@@ -6,7 +6,7 @@ public class RandomizerTester
         System.out.println("Results of Randomizer.nextInt()");
         for(int i = 0; i < 10; i++)
         {
-            System.out.println(/*a random number from 0-9*/);
+            System.out.println(/*a random number from 1-10*/);
         }
        
         //Initialize min and max for Randomizer.nextInt(min,max)
